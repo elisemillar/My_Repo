@@ -1,6 +1,8 @@
+#modified
+
 theme_ugly = function()
 {
-  ## Create an object and include everything from theme_bw() #this is a modification
+  ## Create an object and include everything from theme_bw()
   newTheme = theme_bw() +     
 
   ## then modify theme_bw() with the seven subcomponents below
